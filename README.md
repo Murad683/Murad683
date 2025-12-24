@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Skolyn (AI-based healthcare platform)](https://github.com/Murad683/skolyn-dashboard)
+- 🔭 I’m currently working on [Skolyn (AI-based healthcare platform)](https://github.com/skolyn)
 
 - 🌱 I’m currently learning **Spring Boot, PostgreSQL, Docker, system design basics, React and new technologies to adopt real world tech speed**
 
