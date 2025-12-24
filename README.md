@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Murad683](https://github.com/Murad683)
 
-- 💬 Ask me about **Java backend, REST APIs, databases, project structure**
-
 - 📫 How to reach me **https://az.linkedin.com/in/murad-mammadov-897876371**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/19ZSHmKE0wHMkHvoa86-d34bx2MjmUAL6?usp=sharing](https://drive.google.com/drive/folders/19ZSHmKE0wHMkHvoa86-d34bx2MjmUAL6?usp=sharing)
 
-- ⚡ Fun fact **I am alive ;) So, take advantage of me ASAP!**
+- ⚡ Fun fact: **I am alive ;) So, take advantage of me ASAP!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
