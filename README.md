@@ -104,13 +104,17 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- GitHub Trophies (Alternative to Stats) -->
+<h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad683&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad683&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Murad683&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
+
+<br>
+
+<!-- Streak Stats (This usually works better) -->
+<h3 align="center">🔥 Coding Streak</h3>
 
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad683&theme=tokyonight&hide_border=true" alt="streak graph" />
