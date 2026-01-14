@@ -5,13 +5,13 @@
 
   <!-- Social Icons -->
   <p>
-    <a href="https://az.linkedin.com/in/murad-mammadov-897876371" target="_blank">
+    <a href="https://az.linkedin.com/in/murad-mammadov-897876371">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://medium.com/@muradmemedov16" target="_blank">
+    <a href="https://medium.com/@muradmemedov16">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/itsmurad0" target="_blank">
+    <a href="https://www.instagram.com/itsmurad0">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:muradmemedov16@gmail.com">
@@ -27,10 +27,10 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <div align="center">
-  <p>🔭 I’m currently working on <b><a href="https://skolyn-dashboard.netlify.app/" target="_blank">Skolyn</a> (AI-based healthcare platform)</b></p>
+  <p>🔭 I’m currently working on <b><a href="https://skolyn-dashboard.netlify.app/">Skolyn</a> (AI-based healthcare platform)</b></p>
   <p>🌱 I’m currently learning <b>Spring Boot, PostgreSQL, Docker, System Design & React</b></p>
   <p>👯 I’m looking to collaborate on <b>Full Stack projects (Java / Spring / React)</b></p>
-  <p>📄 View my <b><a href="https://drive.google.com/drive/folders/19ZSHmKE0wHMkHvoa86-d34bx2MjmUAL6?usp=sharing" target="_blank">Resume / CV</a></b></p>
+  <p>📄 View my <b><a href="https://drive.google.com/drive/folders/19ZSHmKE0wHMkHvoa86-d34bx2MjmUAL6?usp=sharing">Resume / CV</a></b></p>
   <p>⚡ <b>Fun fact:</b> I am alive ;) So, take advantage of me ASAP!</p>
 </div>
 
@@ -45,7 +45,7 @@
 
 <br>
 
-<!-- Projects Section (FIXED TABLE ALIGNMENT & NEW TABS) -->
+<!-- Projects Section (FIXED TABLE ALIGNMENT) -->
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
@@ -60,42 +60,42 @@
     <tbody>
       <tr>
         <td><b>🏥 Medical AI</b></td>
-        <td><a href="https://skolyn-dashboard.netlify.app/" target="_blank">Skolyn Dashboard</a></td>
+        <td><a href="https://skolyn-dashboard.netlify.app/">Skolyn Dashboard</a></td>
         <td>Healthcare Startup</td>
       </tr>
       <tr>
         <td><b>🍽️ Restaurants</b></td>
-        <td><a href="https://boulevard1909-site.netlify.app/" target="_blank">Boulevard 1909</a></td>
+        <td><a href="https://boulevard1909-site.netlify.app/">Boulevard 1909</a></td>
         <td>Branding / Website</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://rooftop-site.netlify.app/" target="_blank">Rooftop Lounge</a></td>
+        <td><a href="https://rooftop-site.netlify.app/">Rooftop Lounge</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://riviera-site.netlify.app/" target="_blank">Riviera</a></td>
+        <td><a href="https://riviera-site.netlify.app/">Riviera</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://mist-site.netlify.app/" target="_blank">Mist</a></td>
+        <td><a href="https://mist-site.netlify.app/">Mist</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td><b>🩺 Healthcare</b></td>
-        <td><a href="https://maharram.netlify.app/" target="_blank">Dr. Maharram</a></td>
+        <td><a href="https://maharram.netlify.app/">Dr. Maharram</a></td>
         <td>Personal Doctor Portfolio</td>
       </tr>
       <tr>
         <td><b>🦄 Startups</b></td>
-        <td><a href="https://malvion.netlify.app/" target="_blank">Malvion</a></td>
+        <td><a href="https://malvion.netlify.app/">Malvion</a></td>
         <td>Tech Startup</td>
       </tr>
       <tr>
         <td><b>🎓 Education</b></td>
-        <td><a href="https://atl-academy.netlify.app/" target="_blank">ATL Academy</a></td>
+        <td><a href="https://atl-academy.netlify.app/">ATL Academy</a></td>
         <td>Tech Course Platform</td>
       </tr>
     </tbody>
@@ -104,7 +104,7 @@
 
 <br>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies (Alternative to Stats) -->
 <h3 align="center">🏆 Achievements</h3>
 
 <div align="center">
@@ -113,7 +113,7 @@
 
 <br>
 
-<!-- Streak Stats -->
+<!-- Streak Stats (This usually works better) -->
 <h3 align="center">🔥 Coding Streak</h3>
 
 <div align="center"> 
