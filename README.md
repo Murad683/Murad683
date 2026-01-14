@@ -45,7 +45,7 @@
 
 <br>
 
-<!-- Projects Section -->
+<!-- Projects Section (FIXED TABLE ALIGNMENT) -->
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
@@ -104,12 +104,11 @@
 
 <br>
 
-<!-- GitHub Stats Section (FIXED) -->
+<!-- GitHub Stats Section -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <!-- Removed 'count_private=true' to fix loading issues -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad683&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murad683&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad683&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
