@@ -54,6 +54,7 @@
       <tr>
         <th>Category</th>
         <th>Project Name</th>
+        <th>Alternative Link</th>
         <th>Type</th>
       </tr>
     </thead>
