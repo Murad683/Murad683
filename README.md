@@ -100,8 +100,8 @@
       </tr>
       <tr>
         <td><b>📸 Photographer</b></td>
-        <td><a href="https://photographerr-site.netlify.app">Dr. Maharram</a></td>
-        <td>Personal Doctor Portfolio</td>
+        <td><a href="https://photographerr-site.netlify.app">Photographer</a></td>
+        <td>Personal Photographer Portfolio</td>
       </tr>
     </tbody>
   </table>
