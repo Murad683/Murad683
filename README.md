@@ -54,50 +54,48 @@
       <tr>
         <th>Category</th>
         <th>Project Name</th>
-        <th>Alternative Link</th>
         <th>Type</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><b>🏥 Medical AI</b></td>
-        <td><a href="https://skolyn-dashboard.netlify.app">Skolyn Dashboard</a></td>
+        <td><a href="https://skolyn-dashboard.netlify.app/">Skolyn Dashboard</a></td>
         <td>Healthcare Startup</td>
       </tr>
       <tr>
         <td><b>🍽️ Restaurants</b></td>
-        <td><a href="https://boulevard1909-site.netlify.app">Boulevard 1909</a></td>
-        <td><a href="https://boulevard1909.vercel.app">Boulevard 1909</a></td>
+        <td><a href="https://boulevard1909.vercel.app/">Boulevard 1909</a></td>
         <td>Branding / Website</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://rooftop-site.netlify.app">Rooftop Lounge</a></td>
+        <td><a href="https://rooftop-site.netlify.app/">Rooftop Lounge</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://riviera-site.netlify.app">Riviera</a></td>
+        <td><a href="https://riviera-site.netlify.app/">Riviera</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td></td>
-        <td><a href="https://mist-site.netlify.app">Mist</a></td>
+        <td><a href="https://mist-site.netlify.app/">Mist</a></td>
         <td>Restaurant Site</td>
       </tr>
       <tr>
         <td><b>🩺 Healthcare</b></td>
-        <td><a href="https://maharram.netlify.app">Dr. Maharram</a></td>
+        <td><a href="https://maharram.netlify.app/">Dr. Maharram</a></td>
         <td>Personal Doctor Portfolio</td>
       </tr>
       <tr>
         <td><b>🦄 Startups</b></td>
-        <td><a href="https://malvion.netlify.app">Malvion</a></td>
+        <td><a href="https://malvion.netlify.app/">Malvion</a></td>
         <td>Tech Startup</td>
       </tr>
       <tr>
         <td><b>🎓 Education</b></td>
-        <td><a href="https://atl-academy.netlify.app">ATL Academy</a></td>
+        <td><a href="https://atl-academy.netlify.app/">ATL Academy</a></td>
         <td>Tech Course Platform</td>
       </tr>
       <tr>
